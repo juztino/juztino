@@ -2,9 +2,6 @@
   <a href="https://keno.atabook.org">‹ATA›<https://keno.atabook.org"></a>
 </p>
     
-<img width="500" height="253" alt="712" src="https://github.com/user-attachments/assets/1e2b8b27-959e-4efd-8d03-862137ad6c53" />
+<img width="720" height="744" alt="914" src="https://github.com/user-attachments/assets/359f6d4c-3c71-4f40-938e-6977717afbc1" />
 
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=green&center=true&vCenter=true&width=435&lines=neinei+my+darling)
 
